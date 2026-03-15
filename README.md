@@ -109,7 +109,7 @@ config.plist → PlatformInfo → Generic
 This EFI was built and tested specifically for:
 
 Dell Inspiron 7560  
-Intel i7-7200U
+Intel i5-7200U
 
 Other hardware variants may require additional configuration.
 
